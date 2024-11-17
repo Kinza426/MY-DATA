@@ -55,8 +55,9 @@ As an environmentalist, my career objective is to contribute to the preservation
 - **Environmental Protection Department, Lahore**  
   - Worked in the *Wastewater Laboratory* and *Environmental Impact Assessment (EIA)* section for a period of one month.
 - **Pakistan Red Crescent Society**  
-  - Interned in various departments, including *First Aid*, *Restoring Family Links*, *Youth and Volunteer Department*, and *Health Department*.
-  **Al.Moqeet Lab (PVT).Ltd**
+  - Interned in various departments, including *First Aid*, *Restoring Family Links*, *Youth and Volunteer Department*, and *HHealth 
+    Department*.
+- **Al.Moqeet Lab (PVT).Ltd**
   - working as a project coordinator "Environmental Threats Mitigation" with Al.Moqeet Lab (PVT).Ltd.
 
 ---
